@@ -37,11 +37,11 @@ Landing, SaaS template clone, branding, PDF/proposals, focused fixes.
 
 ## Flagship (lab)
 
-| Project | What it is |
-|---------|------------|
-| **Sherlock** + **Lughnasadh** | Visual chess investigation desk on a home UCI engine. Chess engine + analysis GUI for training (not live cheat). Private repos. |
-| **Tron — o legado** | Android lab line (APK 0.1 → 0.2). |
-| **Êxodus** | Free Android file manager (MIT), no ads. |
+| Project | What it is | Links |
+|---------|------------|-------|
+| **Sherlock** | Visual chess investigation desk on home UCI engine **Lughnasadh**. Training / analysis only — not live cheat. | [repo](https://github.com/lughlammas/sherlock) · [APK 0.1.3](https://github.com/lughlammas/sherlock/releases/tag/v0.1.3) |
+| **Tron — o legado** | Android + web lab app (chess investigation UI lineage). | [repo](https://github.com/lughlammas/tron-o-legado) · [APK 0.2.0](https://github.com/lughlammas/tron-o-legado/releases/tag/v0.2.0) |
+| **Êxodus** | Free Android file manager (MIT), no ads. | [repo](https://github.com/lughlammas/exodus) · [release](https://github.com/lughlammas/exodus/releases/tag/v1.0.0) |
 
 Commercial template = bread. Lab = blade. Both stay on the portfolio.
 
@@ -61,6 +61,8 @@ Next.js · React · TypeScript · Tailwind · Prisma · NextAuth · Docker · PD
 | **ai-coordinator-portfolio** | [repo](https://github.com/lughlammas/ai-coordinator-portfolio) |
 | **logosdigital** | [repo](https://github.com/lughlammas/logosdigital) |
 | **solucaoinfo1.0** | [repo](https://github.com/lughlammas/solucaoinfo1.0) |
+| **sherlock** | [repo](https://github.com/lughlammas/sherlock) · [APK](https://github.com/lughlammas/sherlock/releases/tag/v0.1.3) |
+| **tron-o-legado** | [repo](https://github.com/lughlammas/tron-o-legado) · [APK](https://github.com/lughlammas/tron-o-legado/releases/tag/v0.2.0) |
 | **exodus** | [repo](https://github.com/lughlammas/exodus) · [release](https://github.com/lughlammas/exodus/releases/tag/v1.0.0) |
 
 Site: **[lughlammas.github.io](https://lughlammas.github.io)**
