@@ -39,7 +39,7 @@ Landing, SaaS template clone, branding, PDF/proposals, focused fixes.
 
 | Project | What it is |
 |---------|------------|
-| **Sherlock** + **Lughnasadh** | Visual chess investigation desk on a home UCI engine. Prep/analysis only — never live help in an official game. Private repos. |
+| **Sherlock** + **Lughnasadh** | Visual chess investigation desk on a home UCI engine. Chess engine + analysis GUI for training (not live cheat). Private repos. |
 | **Tron — o legado** | Android lab line (APK 0.1 → 0.2). |
 | **Êxodus** | Free Android file manager (MIT), no ads. |
 
