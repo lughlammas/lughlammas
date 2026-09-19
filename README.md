@@ -87,6 +87,22 @@ Human-led assistants. No fictional staff.
 
 ---
 
+
+---
+
+## Yesod Coordinator (mid-high ticket)
+
+The market wants people who **orchestrate agents** and ship product — not one-off prompts.
+
+| You get | I deliver |
+|---------|-----------|
+| Multi-agent coordination | Product · code · QA · docs pipeline |
+| Template install / clone | Branded B2B SaaS live |
+| Lab on demand | Closed scope, briefing first |
+
+No quote without briefing. No poverty-wage gigs.
+
+
 ## Contact
 
 - GitHub: [@lughlammas](https://github.com/lughlammas)
