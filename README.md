@@ -62,7 +62,7 @@ Next.js · React · TypeScript · Tailwind · Prisma · NextAuth · Docker · PD
 | **ai-coordinator-portfolio** | [repo](https://github.com/lughlammas/ai-coordinator-portfolio) |
 | **logosdigital** | [repo](https://github.com/lughlammas/logosdigital) |
 | **solucaoinfo1.0** | [repo](https://github.com/lughlammas/solucaoinfo1.0) |
-| **exodus** | publishing |
+| **exodus** | [repo](https://github.com/lughlammas/exodus) · [release](https://github.com/lughlammas/exodus/releases/tag/v1.0.0) |
 
 Site: **[lughlammas.github.io](https://lughlammas.github.io)**
 
