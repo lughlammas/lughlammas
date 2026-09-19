@@ -1,8 +1,8 @@
-# Guilherme / Gui — Coordenador de IAs · freela on-demand
+# Guilherme / Gui — Yesod Coordinator
 
-**Disponível esta semana (set/2026)** para trampo **on-demand**: landing, template SaaS, personalização, bugfix, PDF/propostas, site cliente.
+Coordeno agentes de IA para produtos digitais. Yesod: o fundamento que organiza o fluxo antes da entrega em Malkuth — no chão, com o cliente.
 
-**EN:** AI coordinator for digital products — multi-agent delivery. Open for **on-demand** gigs this week.
+**EN:** Yesod Coordinator — I orchestrate AI agents so work lands cleanly in the world. Human direction. Versioned repos. Clear acceptance.
 
 [![Portfolio](https://img.shields.io/badge/portfolio-lughlammas.github.io-0ea5e9?style=flat-square)](https://lughlammas.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-lughlammas-181717?style=flat-square&logo=github)](https://github.com/lughlammas)
@@ -10,81 +10,87 @@
 
 ---
 
-## On-demand (esta semana)
+## On-demand (this week)
 
-| Pacote | Entrega típica | Stack |
-|--------|----------------|--------|
-| Landing / site cliente | 24–72h | Next.js · HTML/CSS · deploy |
-| Clone + marca do `comercial-template` | 2–5 dias | Next.js · Auth · Prisma · PDF |
-| Ajuste / bugfix / feature curta | 1–3 dias | TS · React · Android (Kotlin) |
-| Playbook multiagente (docs) | sob escopo | prompts · papéis · QA |
+Landing, SaaS template clone, branding, PDF/proposals, focused fixes.
 
-**Como contratar:** abra uma [issue no comercial-template](https://github.com/lughlammas/comercial-template/issues) com escopo + prazo, ou fale pelo CTA do [portfolio](https://lughlammas.github.io/#on-demand).
+| Package | Typical delivery |
+|--------|------------------|
+| Landing / client site | 24–72h |
+| Clone + brand of `comercial-template` | 2–5 days |
+| Bugfix / short feature | 1–3 days |
 
----
-
+**How to hire:** open an [issue](https://github.com/lughlammas/comercial-template/issues) with scope and deadline. No briefing → no proposal.
 
 ---
 
-## Flagship (o lado brabo)
+## Languages
 
-| Projeto | O que é | Status |
-|---------|---------|--------|
-| **S H E R L O C K** + **Lughnasadh** | Mesa de investigação visual de xadrez sobre engine própria (UCI). Prep/análise — **não** assistência ao vivo em partida oficial. | Repo privado · APKs de lab |
-| **Tron — o legado** | Linha Android própria (APK 0.1 → 0.2). | Builds locais · repo público sob demanda |
+| Language | Level |
+|----------|--------|
+| Portuguese | Native |
+| English | Fluent |
+| Spanish | Fluent |
+| Japanese | Learning |
+| Hebrew | Learning |
 
-Isso é a lâmina. O template comercial é o pão. Os dois convivem no portfólio.
+---
+
+## Flagship (lab)
+
+| Project | What it is |
+|---------|------------|
+| **Sherlock** + **Lughnasadh** | Visual chess investigation desk on a home UCI engine. Prep/analysis only — never live help in an official game. Private repos. |
+| **Tron — o legado** | Android lab line (APK 0.1 → 0.2). |
+| **Êxodus** | Free Android file manager (MIT), no ads. |
+
+Commercial template = bread. Lab = blade. Both stay on the portfolio.
+
+---
 
 ## Stack
 
-- **Web:** Next.js, React, TypeScript, Tailwind
-- **Dados / auth:** Prisma, NextAuth, SQLite/Postgres
-- **Entrega:** Docker, PDF (`@react-pdf/renderer`), GitHub
-- **Mobile:** Kotlin / Android (Êxodus file manager — case)
-- **Processo:** coordenação multiagente (produto · código · QA · docs)
-- **Comunidade:** [Stack Overflow](https://stackoverflow.com/) — perfil em criação (`lughlammas`)
+Next.js · React · TypeScript · Tailwind · Prisma · NextAuth · Docker · PDF · Kotlin/Android · multi-agent coordination
 
 ---
 
-## Projetos em destaque
+## Public projects
 
-| Projeto | Para quê | Link |
-|---------|----------|------|
-| **comercial-template** | Base SaaS B2B (auth, dashboard, propostas, PDF) | [repo](https://github.com/lughlammas/comercial-template) |
-| **ai-coordinator-portfolio** | Playbooks de coordenação de IAs | [repo](https://github.com/lughlammas/ai-coordinator-portfolio) |
-| **logosdigital** | Site Next.js / presença | [repo](https://github.com/lughlammas/logosdigital) |
-| **solucaoinfo1.0** | Site cliente (HTML/CSS/JS) | [repo](https://github.com/lughlammas/solucaoinfo1.0) |
-| **sherlock** / **lughnasadh** | Investigação xadrez + engine (flagship) | privado — pedir acesso |
-| **Tron o legado** | App Android (legado/lab) | APK em lab |
+| Project | Link |
+|---------|------|
+| **comercial-template** | [repo](https://github.com/lughlammas/comercial-template) |
+| **ai-coordinator-portfolio** | [repo](https://github.com/lughlammas/ai-coordinator-portfolio) |
+| **logosdigital** | [repo](https://github.com/lughlammas/logosdigital) |
+| **solucaoinfo1.0** | [repo](https://github.com/lughlammas/solucaoinfo1.0) |
+| **exodus** | publishing |
 
-Portfolio: **[lughlammas.github.io](https://lughlammas.github.io)**
+Site: **[lughlammas.github.io](https://lughlammas.github.io)**
 
 ---
 
-## Como trabalho
+## How I work
 
 ```mermaid
 flowchart LR
-  C[Coordenador Gui] --> P[Produto]
-  C --> D[Código]
+  C[Gui · Yesod] --> P[Product]
+  C --> D[Code]
   C --> Q[QA]
   C --> Doc[Docs]
   P --> R[Repos]
   D --> R
   Q --> R
   Doc --> R
-  R --> Cl[Cliente / on-demand]
+  R --> M[Malkuth · client]
 ```
 
-Coordenação de **assistants / agentes de IA** sob direção humana — sem time fictício.
+Human-led assistants. No fictional staff.
 
 ---
 
-## Contato
+## Contact
 
-- **GitHub:** [@lughlammas](https://github.com/lughlammas)
-- **Portfolio:** [lughlammas.github.io](https://lughlammas.github.io)
-- **Issues (pedido de job):** [comercial-template/issues](https://github.com/lughlammas/comercial-template/issues)
-- **Stack Overflow:** criar/vincular perfil `lughlammas` (em andamento)
+- GitHub: [@lughlammas](https://github.com/lughlammas)
+- Portfolio: [lughlammas.github.io](https://lughlammas.github.io)
+- Requests: [comercial-template/issues](https://github.com/lughlammas/comercial-template/issues)
 
-Pix / valores sob escopo — resposta rápida esta semana.
+Rates by scope. Fast reply this week.
