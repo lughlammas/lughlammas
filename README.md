@@ -1,8 +1,7 @@
-# Guilherme / Gui — Yesod Coordinator
+# Guilherme / Gui — AI Coordinator
 
-Coordeno agentes de IA para produtos digitais. Yesod: o fundamento que organiza o fluxo antes da entrega em Malkuth — no chão, com o cliente.
-
-**EN:** Yesod Coordinator — I orchestrate AI agents so work lands cleanly in the world. Human direction. Versioned repos. Clear acceptance.
+Coordeno agentes de IA para produtos digitais. 
+**EN:** AI Coordinator — I orchestrate AI agents so work lands cleanly in the world. Human direction. Versioned repos. Clear acceptance.
 
 [![Portfolio](https://img.shields.io/badge/portfolio-lughlammas.github.io-0ea5e9?style=flat-square)](https://lughlammas.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-lughlammas-181717?style=flat-square&logo=github)](https://github.com/lughlammas)
@@ -72,7 +71,7 @@ Site: **[lughlammas.github.io](https://lughlammas.github.io)**
 
 ```mermaid
 flowchart LR
-  C[Gui · Yesod] --> P[Product]
+  C[Gui · AI Coordinator] --> P[Product]
   C --> D[Code]
   C --> Q[QA]
   C --> Doc[Docs]
@@ -80,7 +79,7 @@ flowchart LR
   D --> R
   Q --> R
   Doc --> R
-  R --> M[Malkuth · client]
+  R --> M[Client]
 ```
 
 Human-led assistants. No fictional staff.
@@ -90,7 +89,7 @@ Human-led assistants. No fictional staff.
 
 ---
 
-## Yesod Coordinator (mid-high ticket)
+## AI Coordinator (mid-high ticket)
 
 The market wants people who **orchestrate agents** and ship product — not one-off prompts.
 
