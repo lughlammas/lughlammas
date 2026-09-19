@@ -23,6 +23,18 @@
 
 ---
 
+
+---
+
+## Flagship (o lado brabo)
+
+| Projeto | O que é | Status |
+|---------|---------|--------|
+| **S H E R L O C K** + **Lughnasadh** | Mesa de investigação visual de xadrez sobre engine própria (UCI). Prep/análise — **não** assistência ao vivo em partida oficial. | Repo privado · APKs de lab |
+| **Tron — o legado** | Linha Android própria (APK 0.1 → 0.2). | Builds locais · repo público sob demanda |
+
+Isso é a lâmina. O template comercial é o pão. Os dois convivem no portfólio.
+
 ## Stack
 
 - **Web:** Next.js, React, TypeScript, Tailwind
@@ -42,6 +54,8 @@
 | **ai-coordinator-portfolio** | Playbooks de coordenação de IAs | [repo](https://github.com/lughlammas/ai-coordinator-portfolio) |
 | **logosdigital** | Site Next.js / presença | [repo](https://github.com/lughlammas/logosdigital) |
 | **solucaoinfo1.0** | Site cliente (HTML/CSS/JS) | [repo](https://github.com/lughlammas/solucaoinfo1.0) |
+| **sherlock** / **lughnasadh** | Investigação xadrez + engine (flagship) | privado — pedir acesso |
+| **Tron o legado** | App Android (legado/lab) | APK em lab |
 
 Portfolio: **[lughlammas.github.io](https://lughlammas.github.io)**
 
