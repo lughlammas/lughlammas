@@ -78,6 +78,41 @@ Human review and testing guide each iteration, with decisions and changes record
 - English — Fluent
 - Spanish — Fluent
 
+## Available for project work
+
+I take on focused technical engagements where understanding, experimentation, coordination and delivery matter. I can join an existing codebase, develop an early concept, or own a defined deliverable.
+
+### Typical engagements
+
+- Audit, restructure and consolidate repositories, code, builds and technical assets
+- Build functional prototypes; prepare them for documented releases
+- Coordinate AI-assisted sprints and improve documentation, QA and delivery
+- Prepare projects for GitHub, handoff or technical review
+
+### Areas of work
+
+Applied AI · prototyping · developer tooling · web and Android · technical documentation · project execution · multi-agent coordination.
+
+### Engagement formats
+
+Fixed-scope projects · short sprints · fractional / part-time work · project-based consulting · prototype-to-delivery engagements · temporary team support.
+
+For project discussions, contact me through GitHub or the links below.
+
+## Typical problems I can take on
+
+**“I have a working prototype but the repository is a mess.”**  
+Audit, restructure, document and prepare it for continuation or release.
+
+**“I need to test whether an idea can become software.”**  
+Build and validate a focused technical prototype.
+
+**“My AI-assisted project is producing code but lacks coordination.”**  
+Structure roles, QA, handoffs and human review.
+
+**“I have an existing project that needs a short technical push.”**  
+Diagnose its current state and deliver a defined sprint outcome.
+
 ## Contact
 
 - GitHub: [@lughlammas](https://github.com/lughlammas)
