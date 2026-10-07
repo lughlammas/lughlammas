@@ -1,113 +1,82 @@
-# Guilherme / Gui — AI Coordinator
+# Guilherme Cavalcanti
 
-Coordeno agentes de IA para produtos digitais. 
-**EN:** AI Coordinator — I orchestrate AI agents so work lands cleanly in the world. Human direction. Versioned repos. Clear acceptance.
+**Independent Developer · Applied AI · AI Coordination**
 
-[![Portfolio](https://img.shields.io/badge/portfolio-lughlammas.github.io-0ea5e9?style=flat-square)](https://lughlammas.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-lughlammas-181717?style=flat-square&logo=github)](https://github.com/lughlammas)
-[![Status](https://img.shields.io/badge/status-open_for_work-22c55e?style=flat-square)](https://lughlammas.github.io/#on-demand)
+I design and coordinate AI-assisted workflows across product, code, testing, research, and documentation, with a focus on turning concepts into working software.
 
----
+**ARBOCK LABS** — an independent software and applied-AI lab currently being structured.
 
-## On-demand (this week)
+## What I do
 
-Landing, SaaS template clone, branding, PDF/proposals, focused fixes.
+- Applied AI workflows and AI-assisted product development
+- Software prototyping
+- Multi-agent coordination across product, code, QA, and documentation
+- Web and Android application development
+- Technical experimentation, testing, and iterative delivery
 
-| Package | Typical delivery |
-|--------|------------------|
-| Landing / client site | 24–72h |
-| Clone + brand of `comercial-template` | 2–5 days |
-| Bugfix / short feature | 1–3 days |
+AI systems are tools within a human-directed development process. I define the scope, inspect results, and take responsibility for the output; agents are not fictional team members.
 
-**How to hire:** open an [issue](https://github.com/lughlammas/comercial-template/issues) with scope and deadline. No briefing → no proposal.
+## Selected Work
 
----
+### S H E R L O C K
 
-## Languages
+A visual chess investigation and analysis environment built around the Lughnasadh UCI chess engine. Its React interface connects through a WebSocket controller and a UCI adapter; the Android version uses a WebView interface with a native engine process.
 
-| Language | Level |
-|----------|--------|
-| Portuguese | Native |
-| English | Fluent |
-| Spanish | Fluent |
-| Japanese | Learning |
-| Hebrew | Learning |
+[Repository](https://github.com/lughlammas/sherlock) · [Android release v0.1.3](https://github.com/lughlammas/sherlock/releases/tag/v0.1.3)
 
----
+### Êxodus
 
-## Flagship (lab)
+An open-source Android file manager with local file operations, ZIP creation and sharing, and no advertising. Released under the MIT license.
 
-| Project | What it is | Links |
-|---------|------------|-------|
-| **Sherlock** | Visual chess investigation desk on home UCI engine **Lughnasadh**. Training / analysis only — not live cheat. | [repo](https://github.com/lughlammas/sherlock) · [APK 0.1.3](https://github.com/lughlammas/sherlock/releases/tag/v0.1.3) |
-| **Tron — o legado** | Android + web lab app (chess investigation UI lineage). | [repo](https://github.com/lughlammas/tron-o-legado) · [APK 0.2.0](https://github.com/lughlammas/tron-o-legado/releases/tag/v0.2.0) |
-| **Êxodus** | Free Android file manager (MIT), no ads. | [repo](https://github.com/lughlammas/exodus) · [release](https://github.com/lughlammas/exodus/releases/tag/v1.0.0) |
+[Repository](https://github.com/lughlammas/exodus) · [Release v1.0.0](https://github.com/lughlammas/exodus/releases/tag/v1.0.0)
 
-Commercial template = bread. Lab = blade. Both stay on the portfolio.
+### Tron — o legado
 
----
+An experimental Android and web application for chess-analysis interface research, with a Vite and TypeScript frontend and an Android wrapper.
 
-## Stack
+[Repository](https://github.com/lughlammas/tron-o-legado) · [Android release v0.2.0](https://github.com/lughlammas/tron-o-legado/releases/tag/v0.2.0)
 
-Next.js · React · TypeScript · Tailwind · Prisma · NextAuth · Docker · PDF · Kotlin/Android · multi-agent coordination
+### AI Coordinator Portfolio
 
----
+Documented methodology for coordinating AI agents across product development, handoffs, QA, and delivery, including playbooks, role definitions, and prompts.
 
-## Public projects
+[Repository](https://github.com/lughlammas/ai-coordinator-portfolio)
 
-| Project | Link |
-|---------|------|
-| **comercial-template** | [repo](https://github.com/lughlammas/comercial-template) |
-| **ai-coordinator-portfolio** | [repo](https://github.com/lughlammas/ai-coordinator-portfolio) |
-| **logosdigital** | [repo](https://github.com/lughlammas/logosdigital) |
-| **solucaoinfo1.0** | [repo](https://github.com/lughlammas/solucaoinfo1.0) |
-| **sherlock** | [repo](https://github.com/lughlammas/sherlock) · [APK](https://github.com/lughlammas/sherlock/releases/tag/v0.1.3) |
-| **tron-o-legado** | [repo](https://github.com/lughlammas/tron-o-legado) · [APK](https://github.com/lughlammas/tron-o-legado/releases/tag/v0.2.0) |
-| **exodus** | [repo](https://github.com/lughlammas/exodus) · [release](https://github.com/lughlammas/exodus/releases/tag/v1.0.0) |
-
-Site: **[lughlammas.github.io](https://lughlammas.github.io)**
-
----
+Other public projects: [comercial-template](https://github.com/lughlammas/comercial-template) · [logosdigital](https://github.com/lughlammas/logosdigital) · [solucaoinfo1.0](https://github.com/lughlammas/solucaoinfo1.0)
 
 ## How I work
 
+Define the problem → decompose work → coordinate tools and agents → inspect results → test → document → ship.
+
 ```mermaid
 flowchart LR
-  C[Gui · AI Coordinator] --> P[Product]
-  C --> D[Code]
-  C --> Q[QA]
-  C --> Doc[Docs]
-  P --> R[Repos]
-  D --> R
-  Q --> R
-  Doc --> R
-  R --> M[Client]
+  H["Human direction"] --> P["Product"]
+  P --> C["Code"]
+  C --> Q["QA"]
+  Q --> D["Documentation"]
+  D --> R["Versioned repository"]
+  R --> O["Working output"]
 ```
 
-Human-led assistants. No fictional staff.
+Human review and testing guide each iteration, with decisions and changes recorded in versioned repositories.
 
----
+## Technologies
 
+- **Web:** React · Next.js · TypeScript · Tailwind CSS · Prisma · NextAuth
+- **Android:** Kotlin · Android
+- **Development and integration:** Docker · Git · GitHub · UCI integration
 
----
+My workflow includes AI-assisted development and multi-agent coordination.
 
-## AI Coordinator (mid-high ticket)
+## Languages
 
-The market wants people who **orchestrate agents** and ship product — not one-off prompts.
-
-| You get | I deliver |
-|---------|-----------|
-| Multi-agent coordination | Product · code · QA · docs pipeline |
-| Template install / clone | Branded B2B SaaS live |
-| Lab on demand | Closed scope, briefing first |
-
-No quote without briefing. No poverty-wage gigs.
-
+- Portuguese — Native
+- English — Fluent
+- Spanish — Fluent
 
 ## Contact
 
 - GitHub: [@lughlammas](https://github.com/lughlammas)
 - Portfolio: [lughlammas.github.io](https://lughlammas.github.io)
-- Requests: [comercial-template/issues](https://github.com/lughlammas/comercial-template/issues)
 
-Rates by scope. Fast reply this week.
+Open to international software, applied AI, prototyping, and AI-coordination opportunities.
