@@ -14,7 +14,7 @@ I design and coordinate AI-assisted workflows across product, code, testing, res
 - Web and Android application development
 - Technical experimentation, testing, and iterative delivery
 
-AI systems are tools within a human-directed development process. I define the scope, inspect results, and take responsibility for the output; agents are not fictional team members.
+AI systems remain under human direction, review, and accountability throughout the development process.
 
 ## Selected Work
 
@@ -41,8 +41,6 @@ An experimental Android and web application for chess-analysis interface researc
 Documented methodology for coordinating AI agents across product development, handoffs, QA, and delivery, including playbooks, role definitions, and prompts.
 
 [Repository](https://github.com/lughlammas/ai-coordinator-portfolio)
-
-Other public projects: [comercial-template](https://github.com/lughlammas/comercial-template) · [logosdigital](https://github.com/lughlammas/logosdigital) · [solucaoinfo1.0](https://github.com/lughlammas/solucaoinfo1.0)
 
 ## How I work
 
