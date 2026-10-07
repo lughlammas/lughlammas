@@ -18,27 +18,33 @@ AI systems remain under human direction, review, and accountability throughout t
 
 ## Selected Work
 
-### S H E R L O C K
+### SHERLOCK
 
-A visual chess investigation and analysis environment built around the Lughnasadh UCI chess engine. Its React interface connects through a WebSocket controller and a UCI adapter; the Android version uses a WebView interface with a native engine process.
+A visual chess investigation and analysis environment integrating a React web interface, WebSocket controller, UCI adapter, and native engine execution. Its Android version connects a WebView interface to a native engine process.
 
 [Repository](https://github.com/lughlammas/sherlock) · [Android release v0.1.3](https://github.com/lughlammas/sherlock/releases/tag/v0.1.3)
 
+### Lughnasadh 0.4.0 — Fourth Harvest
+
+An original C++20 UCI chess engine developed for study, analysis, and engine experimentation. The source covers move generation, position handling, evaluation, search, and a transposition table, with CMake builds and reproducible perft validation in GitHub CI.
+
+[Repository](https://github.com/lughlammas/lughnasadh)
+
+### comercial-template
+
+A full-stack Next.js application with NextAuth authentication, user-scoped Prisma persistence, client and proposal workflows, server-generated PDFs, and Docker configuration.
+
+[Repository](https://github.com/lughlammas/comercial-template)
+
 ### Êxodus
 
-An open-source Android file manager with local file operations, ZIP creation and sharing, and no advertising. Released under the MIT license.
+An open-source Android file manager focused on local file operations, ZIP creation, sharing, and zero advertising. Released under the MIT license.
 
 [Repository](https://github.com/lughlammas/exodus) · [Release v1.0.0](https://github.com/lughlammas/exodus/releases/tag/v1.0.0)
 
-### Tron — o legado
-
-An experimental Android and web application for chess-analysis interface research, with a Vite and TypeScript frontend and an Android wrapper.
-
-[Repository](https://github.com/lughlammas/tron-o-legado) · [Android release v0.2.0](https://github.com/lughlammas/tron-o-legado/releases/tag/v0.2.0)
-
 ### AI Coordinator Portfolio
 
-Documented methodology for coordinating AI agents across product development, handoffs, QA, and delivery, including playbooks, role definitions, and prompts.
+Documented methodology for human-directed AI coordination across product, implementation, QA, handoffs, and documentation, including playbooks, role definitions, prompts, and acceptance criteria.
 
 [Repository](https://github.com/lughlammas/ai-coordinator-portfolio)
 
@@ -60,11 +66,11 @@ Human review and testing guide each iteration, with decisions and changes record
 
 ## Technologies
 
-- **Web:** React · Next.js · TypeScript · Tailwind CSS · Prisma · NextAuth
+- **Web:** React · Next.js · TypeScript · Tailwind CSS · Node.js · Prisma · NextAuth
+- **Systems / engines:** C++20 · CMake · UCI integration
 - **Android:** Kotlin · Android
-- **Development and integration:** Docker · Git · GitHub · UCI integration
-
-My workflow includes AI-assisted development and multi-agent coordination.
+- **Engineering workflow:** Docker · Git · GitHub · GitHub Actions · testing / CI
+- **AI:** AI-assisted development · human-directed multi-agent coordination
 
 ## Languages
 
