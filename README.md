@@ -34,7 +34,7 @@ An original C++20 UCI chess engine developed for study, analysis, and engine exp
 
 A full-stack Next.js application with NextAuth authentication, user-scoped Prisma persistence, client and proposal workflows, server-generated PDFs, and Docker configuration.
 
-[Repository](https://github.com/lughlammas/comercial-template)
+[Repository](https://github.com/lughlammas/comercial-template) · [Product walkthrough](https://github.com/lughlammas/comercial-template/blob/main/docs/PRODUCT_WALKTHROUGH.md)
 
 ### Êxodus
 
@@ -46,7 +46,7 @@ An open-source Android file manager focused on local file operations, ZIP creati
 
 Documented methodology for human-directed AI coordination across product, implementation, QA, handoffs, and documentation, including playbooks, role definitions, prompts, and acceptance criteria.
 
-[Repository](https://github.com/lughlammas/ai-coordinator-portfolio)
+[Repository](https://github.com/lughlammas/ai-coordinator-portfolio) · [Audit case study (self-directed)](https://github.com/lughlammas/ai-coordinator-portfolio/blob/main/case-studies/github-project-estate-consolidation.md)
 
 ## How I work
 
