@@ -4,7 +4,13 @@
 
 I design and coordinate AI-assisted workflows across product, code, testing, research, and documentation, with a focus on turning concepts into working software.
 
-**ARBOCK LABS** — an independent software and applied-AI lab currently being structured.
+**ARBOCK LABS** — Independent Software & Applied AI Studio.
+
+We turn problems into working software.
+
+An independent studio developing custom software, practical automation, functional prototypes and technical solutions through AI-assisted engineering and human oversight.
+
+[Website](https://lughlammas.github.io/) · [Services](https://lughlammas.github.io/services/) · [Contact](https://lughlammas.github.io/contact/)
 
 ## What I do
 
